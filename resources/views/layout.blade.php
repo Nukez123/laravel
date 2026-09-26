@@ -37,7 +37,10 @@
                     <a class="nav-link" href="contact"> Contacts </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/articles/show"> Articles </a>
+                    <a class="nav-link" href="/article"> Articles </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/article/create"> Create article  </a>
                 </li>
             </ul>
         </div>
