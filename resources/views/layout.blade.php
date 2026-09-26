@@ -38,6 +38,14 @@
                 </li>
             </ul>
         </div>
+        <div class="navbar-nav d-flex justify-content-end">
+             <li class="nav-item">
+              <a class="nav-item nav-link" href="/signup">Sign up</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-item nav-link" href="/auth/login">Sign in</a>
+            </li>
+        </div>
     </nav>
 </header>
 
